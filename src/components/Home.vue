@@ -39,7 +39,7 @@
                 
           </div>
           <div class="c2">
-            <h3 class="shoe-text">git Apparel</h3>
+            <h3 class="shoe-text">men Apparel</h3>
             <div @click="navigateTo('/men')" style="cursor: pointer;"> <img src="https://assets.woodland.social/new_woodland/landing/top_category_2.webp" class="img-fluid" alt="Men's Apparel"> </div>
             
           </div>
